@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "title": "Lean Tech Learning",
+    "description": "Capacita a tu equipo con entrenamiento tech de expertos"
+  },
+  "nav": {
+    "courses": "Cursos",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "headline": "Eleva el nivel de tu equipo de ingeniería",
+    "subheadline": "Entrenamiento experto en cloud, IA y prácticas modernas de software.",
+    "ctaPrimary": "Explorar cursos",
+    "ctaSecondary": "Contáctanos"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "title": "Lean Tech Learning",
+    "description": "Upskill your team with expert-led tech training"
+  },
+  "nav": {
+    "courses": "Courses",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Level up your engineering team",
+    "subheadline": "Expert-led training in cloud, AI, and modern software practices.",
+    "ctaPrimary": "Explore courses",
+    "ctaSecondary": "Contact us"
+  }
+}
