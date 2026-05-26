@@ -3,6 +3,7 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const nextConfig: NextConfig = {
   // next-intl handles i18n routing via middleware
+  trailingSlash: true,
 };
 
 export default createNextIntlPlugin("./i18n/request.ts")(nextConfig);
