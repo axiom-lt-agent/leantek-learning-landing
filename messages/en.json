@@ -1,17 +1,155 @@
 {
   "metadata": {
-    "title": "Lean Tech Learning",
-    "description": "Upskill your team with expert-led tech training"
+    "title": "LeanTek Learning - Master Modern Tech",
+    "description": "Transform your career with hands-on courses in AI, cloud, and modern development."
   },
   "nav": {
     "courses": "Courses",
     "about": "About",
-    "contact": "Contact"
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Log In",
+    "signup": "Get Started"
   },
   "hero": {
-    "headline": "Level up your engineering team",
-    "subheadline": "Expert-led training in cloud, AI, and modern software practices.",
-    "ctaPrimary": "Explore courses",
-    "ctaSecondary": "Contact us"
+    "badge": "New: AI Engineering Track",
+    "headline": "Master the Tech That Powers the Future",
+    "subheadline": "Hands-on courses in artificial intelligence, cloud architecture, and modern development. Built by engineers, for engineers.",
+    "ctaPrimary": "Start Learning",
+    "ctaSecondary": "View Curriculum",
+    "stats": {
+      "students": "10K+ Students",
+      "rating": "4.9/5 Rating",
+      "courses": "50+ Courses"
+    }
+  },
+  "courses": {
+    "title": "Explore Our Tracks",
+    "subtitle": "Curated learning paths designed to take you from fundamentals to production-ready skills.",
+    "tracks": {
+      "ai": {
+        "title": "AI Engineering",
+        "description": "Build and deploy LLMs, agents, and ML pipelines.",
+        "duration": "12 weeks"
+      },
+      "cloud": {
+        "title": "Cloud Architecture",
+        "description": "Design scalable systems on AWS, GCP, and Azure.",
+        "duration": "10 weeks"
+      },
+      "web": {
+        "title": "Modern Web Dev",
+        "description": "Next.js, TypeScript, and full-stack patterns.",
+        "duration": "8 weeks"
+      }
+    }
+  },
+  "features": {
+    "title": "Why LeanTek Learning?",
+    "subtitle": "Everything you need to accelerate your engineering career.",
+    "items": {
+      "handsOn": {
+        "title": "Hands-On Projects",
+        "description": "Build real applications, not toy examples. Every course includes production-grade projects."
+      },
+      "mentorship": {
+        "title": "Expert Mentorship",
+        "description": "Get guidance from senior engineers who have shipped code at top tech companies."
+      },
+      "community": {
+        "title": "Active Community",
+        "description": "Join a community of learners. Pair program, review code, and grow together."
+      },
+      "certification": {
+        "title": "Industry Certification",
+        "description": "Earn certificates recognized by hiring managers at leading technology companies."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Your journey from beginner to production-ready engineer in four simple steps.",
+    "steps": {
+      "1": {
+        "title": "Choose Your Track",
+        "description": "Pick from AI Engineering, Cloud Architecture, or Modern Web Development based on your goals."
+      },
+      "2": {
+        "title": "Learn by Building",
+        "description": "Follow hands-on lessons where you build real projects, not just watch tutorials."
+      },
+      "3": {
+        "title": "Get Mentored",
+        "description": "Receive personalized feedback and guidance from senior engineers in weekly sessions."
+      },
+      "4": {
+        "title": "Launch Your Career",
+        "description": "Earn your certificate and get connected with hiring partners looking for your skills."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Students Say",
+    "subtitle": "Engineers who transformed their careers with LeanTek Learning.",
+    "items": {
+      "1": {
+        "name": "Sarah Chen",
+        "role": "ML Engineer at OpenAI",
+        "quote": "The AI Engineering track gave me the practical skills I needed to land my dream job. The mentorship was invaluable."
+      },
+      "2": {
+        "name": "Marcus Johnson",
+        "role": "Senior Architect at AWS",
+        "quote": "I went from cloud basics to designing multi-region architectures. The hands-on projects made all the difference."
+      },
+      "3": {
+        "name": "Elena Rodriguez",
+        "role": "Full-Stack Lead at Vercel",
+        "quote": "The Modern Web Dev track is incredibly well structured. I built a production SaaS as my capstone project."
+      },
+      "4": {
+        "name": "David Kim",
+        "role": "Founder at TechStart",
+        "quote": "LeanTek gave me the confidence to leave my corporate job and build my own startup. Best investment ever."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Level Up?",
+    "subtitle": "Join thousands of engineers who are already building the future. Start your journey today.",
+    "button": "Get Started Free"
+  },
+  "footer": {
+    "tagline": "Engineering education for the modern era.",
+    "links": {
+      "product": "Product",
+      "company": "Company",
+      "resources": "Resources",
+      "legal": "Legal"
+    },
+    "productLinks": {
+      "courses": "Courses",
+      "pricing": "Pricing",
+      "enterprise": "Enterprise",
+      "mentorship": "Mentorship"
+    },
+    "companyLinks": {
+      "about": "About Us",
+      "careers": "Careers",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "resourceLinks": {
+      "docs": "Documentation",
+      "community": "Community",
+      "github": "GitHub",
+      "status": "Status"
+    },
+    "legalLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    },
+    "copyright": "© {year} LeanTek Learning. All rights reserved."
   }
 }

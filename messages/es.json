@@ -1,17 +1,155 @@
 {
   "metadata": {
-    "title": "Lean Tech Learning",
-    "description": "Capacita a tu equipo con entrenamiento tech de expertos"
+    "title": "LeanTek Learning - Domina la Tecnología Moderna",
+    "description": "Transforma tu carrera con cursos prácticos en IA, cloud y desarrollo moderno."
   },
   "nav": {
     "courses": "Cursos",
     "about": "Nosotros",
-    "contact": "Contacto"
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "login": "Iniciar Sesión",
+    "signup": "Empezar Ahora"
   },
   "hero": {
-    "headline": "Eleva el nivel de tu equipo de ingeniería",
-    "subheadline": "Entrenamiento experto en cloud, IA y prácticas modernas de software.",
-    "ctaPrimary": "Explorar cursos",
-    "ctaSecondary": "Contáctanos"
+    "badge": "Nuevo: Carrera de IA",
+    "headline": "Domina la Tecnología que Impulsa el Futuro",
+    "subheadline": "Cursos prácticos en inteligencia artificial, arquitectura cloud y desarrollo moderno. Creados por ingenieros, para ingenieros.",
+    "ctaPrimary": "Comenzar a Aprender",
+    "ctaSecondary": "Ver Plan de Estudios",
+    "stats": {
+      "students": "10K+ Estudiantes",
+      "rating": "4.9/5 Calificación",
+      "courses": "50+ Cursos"
+    }
+  },
+  "courses": {
+    "title": "Explora Nuestras Carreras",
+    "subtitle": "Rutas de aprendizaje diseñadas para llevarte de lo fundamental a habilidades listas para producción.",
+    "tracks": {
+      "ai": {
+        "title": "Ingeniería de IA",
+        "description": "Construye y despliega LLMs, agentes y pipelines de ML.",
+        "duration": "12 semanas"
+      },
+      "cloud": {
+        "title": "Arquitectura Cloud",
+        "description": "Diseña sistemas escalables en AWS, GCP y Azure.",
+        "duration": "10 semanas"
+      },
+      "web": {
+        "title": "Desarrollo Web Moderno",
+        "description": "Next.js, TypeScript y patrones full-stack.",
+        "duration": "8 semanas"
+      }
+    }
+  },
+  "features": {
+    "title": "¿Por qué LeanTek Learning?",
+    "subtitle": "Todo lo que necesitas para acelerar tu carrera de ingeniería.",
+    "items": {
+      "handsOn": {
+        "title": "Proyectos Prácticos",
+        "description": "Construye aplicaciones reales, no ejemplos de juguete. Cada curso incluye proyectos de grado producción."
+      },
+      "mentorship": {
+        "title": "Mentoría Experta",
+        "description": "Recibe guía de ingenieros senior que han desplegado código en las mejores empresas tecnológicas."
+      },
+      "community": {
+        "title": "Comunidad Activa",
+        "description": "Únete a una comunidad de aprendices. Programa en pareja, revisa código y crece junto a otros."
+      },
+      "certification": {
+        "title": "Certificación Industrial",
+        "description": "Obtén certificados reconocidos por reclutadores de las principales empresas tecnológicas."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona",
+    "subtitle": "Tu viaje de principiante a ingeniero listo para producción en cuatro simples pasos.",
+    "steps": {
+      "1": {
+        "title": "Elige tu Carrera",
+        "description": "Selecciona entre Ingeniería de IA, Arquitectura Cloud o Desarrollo Web Moderno según tus metas."
+      },
+      "2": {
+        "title": "Aprende Construyendo",
+        "description": "Sigue lecciones prácticas donde construyes proyectos reales, no solo ves tutoriales."
+      },
+      "3": {
+        "title": "Recibe Mentoría",
+        "description": "Obtén retroalimentación personalizada y guía de ingenieros senior en sesiones semanales."
+      },
+      "4": {
+        "title": "Lanza tu Carrera",
+        "description": "Obtén tu certificado y conecta con socios de contratación que buscan tus habilidades."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Estudiantes",
+    "subtitle": "Ingenieros que transformaron sus carreras con LeanTek Learning.",
+    "items": {
+      "1": {
+        "name": "Sarah Chen",
+        "role": "Ingeniera de ML en OpenAI",
+        "quote": "La carrera de Ingeniería de IA me dio las habilidades prácticas que necesitaba para conseguir mi trabajo soñado. La mentoría fue invaluable."
+      },
+      "2": {
+        "name": "Marcus Johnson",
+        "role": "Arquitecto Senior en AWS",
+        "quote": "Pasé de lo básico en cloud a diseñar arquitecturas multi-región. Los proyectos prácticos hicieron toda la diferencia."
+      },
+      "3": {
+        "name": "Elena Rodriguez",
+        "role": "Líder Full-Stack en Vercel",
+        "quote": "La carrera de Desarrollo Web Moderno está increíblemente bien estructurada. Construí un SaaS de producción como proyecto final."
+      },
+      "4": {
+        "name": "David Kim",
+        "role": "Fundador en TechStart",
+        "quote": "LeanTek me dio la confianza para dejar mi trabajo corporativo y construir mi propia startup. La mejor inversión de mi vida."
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Subir de Nivel?",
+    "subtitle": "Únete a miles de ingenieros que ya están construyendo el futuro. Comienza tu viaje hoy.",
+    "button": "Empezar Gratis"
+  },
+  "footer": {
+    "tagline": "Educación en ingeniería para la era moderna.",
+    "links": {
+      "product": "Producto",
+      "company": "Empresa",
+      "resources": "Recursos",
+      "legal": "Legal"
+    },
+    "productLinks": {
+      "courses": "Cursos",
+      "pricing": "Precios",
+      "enterprise": "Empresas",
+      "mentorship": "Mentoría"
+    },
+    "companyLinks": {
+      "about": "Nosotros",
+      "careers": "Carreras",
+      "blog": "Blog",
+      "contact": "Contacto"
+    },
+    "resourceLinks": {
+      "docs": "Documentación",
+      "community": "Comunidad",
+      "github": "GitHub",
+      "status": "Estado"
+    },
+    "legalLinks": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Política de Cookies"
+    },
+    "copyright": "© {year} LeanTek Learning. Todos los derechos reservados."
   }
 }
